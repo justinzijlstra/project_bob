@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Manager
+  - Zoom
+  - EmptyTag
+  - kill
+  - Fire
+  - root
+  - flying
+  - Flowers
+  - Flower
+  - SceneManager
+  - ScanCam
+  - Bar
+  - color
+  - piece
+  - Bean
+  - Webcam
+  - Stamp
+  - counter
+  - player
+  - Metaball_liquid
+  - bee
+  - harvest
+  - sliders
+  - bob
+  - eten
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - CameraFeed
+  - '!SelfCollide'
+  - Bean
+  - Obstacles
+  - Targets
+  - ScoreBean
+  - Flower
+  - Bee
+  - Background
+  - LevelSelect
+  - curtain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3446196669
+    locked: 0
+  - name: Sprite
+    uniqueID: 657823745
+    locked: 0
+  - name: Particle
+    uniqueID: 1658324057
+    locked: 0
+  - name: Snail
+    uniqueID: 2896075233
+    locked: 0
+  - name: hue
+    uniqueID: 2077386073
+    locked: 0
+  - name: Mole
+    uniqueID: 3688184095
+    locked: 0
+  - name: Sonic
+    uniqueID: 4065813357
+    locked: 0
+  - name: Kite
+    uniqueID: 3613651003
+    locked: 0
+  - name: Bird
+    uniqueID: 836300603
+    locked: 0
+  - name: Planet
+    uniqueID: 2537896793
+    locked: 0
+  - name: PlantVase
+    uniqueID: 1963659741
+    locked: 0
+  - name: Elephant
+    uniqueID: 2789981263
+    locked: 0
+  - name: Rooster
+    uniqueID: 3697677765
+    locked: 0
+  - name: Mountain
+    uniqueID: 3048740117
+    locked: 0
+  - name: Sun
+    uniqueID: 3870206675
+    locked: 0
+  - name: TallGuy
+    uniqueID: 183863845
+    locked: 0
+  - name: Tree
+    uniqueID: 3270581961
+    locked: 0
+  - name: Woman
+    uniqueID: 4013466551
+    locked: 0
+  - name: Foliage
+    uniqueID: 1247940437
+    locked: 0
+  - name: Robot
+    uniqueID: 2400675463
+    locked: 0
+  - name: Midground
+    uniqueID: 1989327905
+    locked: 0
+  - name: Duck
+    uniqueID: 2982920413
+    locked: 0
+  - name: Monster Big
+    uniqueID: 3444284529
+    locked: 0
+  - name: Frog
+    uniqueID: 1834911101
+    locked: 0
+  - name: bob1
+    uniqueID: 2355508203
+    locked: 0
+  - name: bob2
+    uniqueID: 2061430407
+    locked: 0
+  - name: bob3
+    uniqueID: 2692902219
+    locked: 0
+  - name: bob4
+    uniqueID: 2164706139
+    locked: 0
+  - name: bob5
+    uniqueID: 4241109817
+    locked: 0
+  - name: bob6
+    uniqueID: 981221023
+    locked: 0
+  - name: bob7
+    uniqueID: 2562755915
+    locked: 0
+  - name: customBob24
+    uniqueID: 620105393
+    locked: 0
+  - name: customBob24_ScanSprite
+    uniqueID: 2482568885
+    locked: 0
+  - name: customBob26
+    uniqueID: 2083188111
+    locked: 0
+  - name: customBob26_ScanSprite
+    uniqueID: 3352689235
+    locked: 0
+  - name: customBob30
+    uniqueID: 3751632983
+    locked: 0
+  - name: customBob30_ScanSprite
+    uniqueID: 3329223291
+    locked: 0
+  - name: custom drawings
+    uniqueID: 794342429
+    locked: 0
+  - name: WaterLine
+    uniqueID: 513966139
+    locked: 0
+  - name: Foreground
+    uniqueID: 702106041
+    locked: 0
+  - name: LookingGlass
+    uniqueID: 3520671755
+    locked: 0
+  - name: scanFidu
+    uniqueID: 4087400277
+    locked: 0
